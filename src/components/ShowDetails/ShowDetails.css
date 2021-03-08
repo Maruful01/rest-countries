@@ -1,0 +1,31 @@
+.Details-div {
+    width: 90%;
+    margin: 50px auto;
+    text-align: center;
+}
+.header {
+    width: 70%;
+    margin: 10px auto;
+    padding: 20px;
+    box-shadow: 0px 2px 10px black;
+    border-radius: 20px;
+}
+.big-flag {
+    width: 450px;
+    height: 300px;
+    object-fit: cover;
+    box-shadow: 10px 10px 20px gray;
+}
+.info {
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px;
+}
+.info p{
+    box-shadow: 1px 1px 10px black;
+    padding: 5px;
+    font-size: 17px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+}
